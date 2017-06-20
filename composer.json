@@ -1,6 +1,6 @@
 {
-  "name": "thecatontheflat/atlassian-connect-bundle",
-  "description": "Atlassian Connect Symfony2 Bundle",
+  "name": "sohelzerdoumi/atlassian-connect-bundle",
+  "description": "Forked thecatontheflat",
   "license": "MIT",
   "require": {
     "guzzlehttp/guzzle": "~5.0"
